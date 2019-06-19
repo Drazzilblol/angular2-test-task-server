@@ -1,0 +1,12 @@
+{
+  "name": "angular2-test-task-server",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "lodash": "4.17.11",
+    "mongodb": "3.2.7"
+  }
+}
